@@ -49,7 +49,7 @@ window.LAGOON_TEAM = {
       name: "Zachary De Witt",
       role: "Lead Web Developer",
       bio: "Zachary develops and maintains the project website and digital infrastructure, supporting public resources, chapter communication, and project documentation.",
-      photo: "",
+      photo: "/assets/img/team/zachary-dewitt.jpg",
       links: [
         { label: "LinkedIn", url: "https://www.linkedin.com/in/zachary-de-witt-a72450419/" }
       ]
